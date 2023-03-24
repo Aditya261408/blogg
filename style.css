@@ -1,0 +1,49 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.prithvi
+{
+width:100%;
+} 
+
+.moviehead{
+    font-size: 25px;
+    border-radius: 15px;
+    padding-left: 20px;
+}
+.moviehead i{
+    float:right;
+    padding-right: 20px;
+}
+.moviehead span{
+    padding-right: 20px;
+} 
+#endgame{
+    font-size: 16px;
+    font-family:serif;
+}
+#king{
+    font-size: 16px;
+    font-family:serif;
+}
+.book a{
+    font-size:20px;
+}
+.name{
+font-family:serif
+}
